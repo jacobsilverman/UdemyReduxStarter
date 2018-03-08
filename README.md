@@ -1,3 +1,6 @@
+# Note from Jacob
+I didn't find a copy of this online lecture-by-lecture so i thought this could be useful for others to prevent them typing it out if you are watching on 2x speed. now you can just start following along from the point you get lost as opposed to starting from lecture 0
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
